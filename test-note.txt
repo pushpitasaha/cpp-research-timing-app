@@ -1,0 +1,11 @@
+[total number of cirlces]
+x   y   id1
+x   y   id2
+x   y   id3
+[total number of squares]
+x   y   id4
+x   y   id5
+x   y   id6
+[total number of edges]
+id1 id2
+id3 id4

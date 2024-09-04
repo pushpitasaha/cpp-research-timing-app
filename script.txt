@@ -1,0 +1,36 @@
+0 t1-linear 100 a0t1.txt
+0 t2-arc-out 100 a0t2.txt
+0 t3-arc-in 100 a0t3.txt
+0 t4-upstairs 100 a0t4.txt
+0 t5-downstairs 100 a0t5.txt
+1 t1-linear 100 a1t1.txt
+1 t2-arc-out 100 a1t2.txt
+1 t3-arc-in 100 a1t3.txt
+1 t4-upstairs 100 a1t4.txt
+1 t5-downstairs 100 a1t5.txt
+2 t1-linear 100 a2t1.txt
+2 t2-arc-out 100 a2t2.txt
+2 t3-arc-in 100 a2t3.txt
+2 t4-upstairs 100 a2t4.txt
+2 t5-downstairs 100 a2t5.txt
+
+
+algo-test.ipynb
+https://colab.research.google.com/drive/1M1QSUkuwxI-Sxixe_TSdMOIc7htH76nj?usp=sharing
+
+#Script for write test summary 
+0 t1-linear.txt a0t1-tsummary.txt
+0 t2-arc-out.txt a0t2-tsummary.txt
+0 t3-arc-in.txt a0t3-tsummary.txt
+0 t4-upstairs.txt a0t4-tsummary.txt
+0 t5-downstairs.txt a0t5-tsummary.txt
+1 t1-linear.txt a1t1-tsummary.txt
+1 t2-arc-out.txt a1t2-tsummary.txt
+1 t3-arc-in.txt a1t3-tsummary.txt
+1 t4-upstairs.txt a1t4-tsummary.txt
+1 t5-downstairs.txt a1t5-tsummary.txt
+2 t1-linear.txt a2t1-tsummary.txt
+2 t2-arc-out.txt a2t2-tsummary.txt
+2 t3-arc-in.txt a2t3-tsummary.txt
+2 t4-upstairs.txt a2t4-tsummary.txt
+2 t5-downstairs.txt a2t5-tsummary.txt
